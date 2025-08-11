@@ -30,7 +30,8 @@ The hybrid approach achieves **higher reward**, **max task resolution**, and **m
 ---
 
 ## Architecture
-Place your architecture diagram at `docs/architecture.png` and it will render here:
+<img width="468" height="175" alt="image" src="https://github.com/user-attachments/assets/52726e47-a0c5-45ba-a500-b76127815e78" />
+
 
 ![System Architecture](docs/architecture.png)
 
